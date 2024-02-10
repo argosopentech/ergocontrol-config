@@ -1,0 +1,24 @@
+[xboxdrv]
+
+[ui-buttonmap]
+
+RT = BTN_LEFT       # Fire
+
+DU = KEY_UP         # Arrow up
+DD = KEY_DOWN       # Arrow down
+DL = KEY_LEFT       # Arrow left
+DR = KEY_RIGHT      # Arrow right
+
+A = KEY_SPACE       # Jump
+B = KEY_E           # Use
+X = KEY_R           # Reload
+Y = KEY_F           # Special action
+LB = KEY_Q          # Previous weapon
+
+
+[ui-axismap]
+x2=REL_X:10
+y2=REL_Y:10
+
+
+#--ui-axismap "x2=REL_X:10,y2=REL_Y:10,x1=KEY_A:KEY_D,y1=KEY_W:KEY_S" \
