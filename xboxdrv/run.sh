@@ -1,2 +1,2 @@
-sudo xboxdrv --config xonotic-controller.map
+sudo xboxdrv --detach-kernel-driver --config xonotic-controller.map
 
